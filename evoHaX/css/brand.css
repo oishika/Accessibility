@@ -1,3 +1,21 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @oishika
+ Sign out
+ Watch 6
+  Star 30
+  Fork 20 haltersweb/Accessibility
+ Code  Issues 4  Pull requests 0  Projects 0  Wiki  Pulse  Graphs
+Branch: gh-pages Find file Copy pathAccessibility/evoHaX/css/brand.css
+d02525f  3 minutes ago
+@haltersweb haltersweb scenario 2 game
+2 contributors @haltersweb @oishika
+RawBlameHistory     
+401 lines (400 sloc)  7.12 KB
 /* ==========================================================================
    Base style definitions
    ========================================================================== */
@@ -393,7 +411,7 @@ label {
 	vertical-align: top;
 	margin-bottom: .5ex;
 }
-.indented { padding-left: 25%; padding-right: 25%; }
+.indented { float: left; margin-right: 1em; width:15vw }
 #challenge_2 label {
 	white-space: normal;
 	display: block;
